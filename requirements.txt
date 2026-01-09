@@ -1,8 +1,8 @@
 nltk
 PyPDF2
-transformers
 sentence-transformers
 youtube-transcript-api
 torch --index-url https://download.pytorch.org/whl/cpu
 numpy
 tqdm
+groq
